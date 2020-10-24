@@ -2,9 +2,9 @@
 
 Fix AnyDesk on Gnome environments when using dark themes.
 
-## How to use
+> Note: It only works with the default themes of your distribution, such as Adwaita or Yaru.
 
-> Note: This fix only works with distribution default themes such as Adwaita or Yaru.
+## How to use
 
 Run the `anydesk.sh` script by cloning this repository or downloading it directly via Wget:
 
